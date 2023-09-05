@@ -30,7 +30,8 @@
 <div class="container">
     <div class="container mt-3">
         <h2>List of Books</h2>
-        <button id="openModalButton" class="btn btn-primary" data-toggle="modal" data-target="#bookModal">Add Book</button>
+        <hr>
+        <button id="openModalButton" style="margin-bottom:10px;" class="btn btn-primary" data-toggle="modal" data-target="#bookModal">Add Book</button>
         <a href="/library/books/export">Export Data</a>
         <div class="col-md-2 leftsidemenu">
         <div class="col-md-2 leftsidemenu">

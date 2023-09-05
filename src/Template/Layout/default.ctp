@@ -12,15 +12,7 @@ $cakeDescription = 'Library';
     </title>
 <!-- Add Bootstrap CSS -->
 
-
-
 <!-- new links -->
-
-
-
-
-
-
     <?= $this->Html->meta('icon') ?>
 
     <?= $this->Html->css(['bootstrap.min.css']) ?>

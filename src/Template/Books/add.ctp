@@ -1,8 +1,16 @@
 <div class="container">
     <div class="row">
+        <div class="form group">
+        <p class="h1">Add Books</p>
+        <hr>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
         <form id="csvUploadForm" class="form-horizontal" action="/library/books/upload" method="POST" enctype="multipart/form-data">
             <div class="form-group">
-                <label for="csv_file">CSV Upload File</label>
+                    <label for="csv_file">CSV Upload File</label>
                     <input type="file" class="form-control" name="csv_file" id="csv_file" accept=".csv">
             </div>
             <div class="form-group">
