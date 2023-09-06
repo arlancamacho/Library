@@ -2,7 +2,6 @@
     <div class="row">
         <div class="form group">
         <p class="h1">Add Books</p>
-        <p>This is sample change and checkout</p>
         <hr>
         </div>
     </div>
